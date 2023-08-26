@@ -7115,7 +7115,7 @@ xT(), yE.exports = ki;
 var h2 = yE.exports,
     rS = h2;
 V0.createRoot = rS.createRoot, V0.hydrateRoot = rS.hydrateRoot;
-const d2 = "/assets/logo-colore-f19715a0.png",
+const d2 = "/taskify/assets/logo-colore-f19715a0.png",
     p2 = () => He.jsx("div", {
         className: "App hun",
         children: He.jsxs("div", {
